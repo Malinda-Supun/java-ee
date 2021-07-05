@@ -1,0 +1,3 @@
+if mvn framework support is not available you need to add all externally referred libs or jars to WEB-INF/lib directory.
+
+As this is there point where tomcat will pickup jars
